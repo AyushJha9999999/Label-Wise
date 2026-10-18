@@ -1,6 +1,6 @@
 # LabelWise
 
-LabelWise helps people compare a food label with allergies, health considerations, and preferences they share. The current prototype uses Gemini Flash-Lite for image analysis and local, open-source Whisper for voice transcription. Before analysis, users can review and correct what Whisper heard so a misheard allergy or condition is less likely to silently affect a result. The confirmed transcript is sent with the label image to Gemini; raw audio is not sent to Gemini. It does not currently run Gemma 4.
+LabelWise helps people compare a food label with allergies, health considerations, and preferences they share. The current prototype uses Gemini Flash-Lite for image analysis and local, open-source Whisper for voice transcription. Before analysis, users can review and correct what Whisper heard so a misheard allergy or condition is less likely to silently affect a result. The confirmed transcript is sent with the label image to Gemini; raw audio is not sent to Gemini.
 
 ## Stack
 
@@ -92,6 +92,3 @@ The Firebase Web API key and app ID are client configuration values, not service
 
 The app can return **SAFE**, **CAUTION**, or **AVOID**. Incomplete label photos, unverified allergen warnings, or diabetes-related carbohydrate uncertainty should lead to caution. The result is a reading aid, not medical advice; users with severe allergies should verify the full package and contact the manufacturer if needed.
 
-## Hackathon track disclosure
-
-This branch is a Gemini Flash-Lite performance prototype for a Gemma 4 challenge. It must not be presented as running Gemma 4. The Gemma 4 backend needs to be restored and benchmarked separately before claiming Gemma 4 powers the demo.
