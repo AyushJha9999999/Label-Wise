@@ -1,0 +1,121 @@
+{
+  "_comment": "Hidden / scientific / regional names for common allergens and dietary concerns.",
+  "_version": "1.0",
+
+  "peanut": [
+    "groundnut", "groundnut oil", "arachis oil", "arachis hypogaea",
+    "monkey nut", "peanut flour", "peanut butter", "mixed nuts",
+    "beer nuts", "nut paste", "nu-puffs"
+  ],
+
+  "milk": [
+    "casein", "caseinate", "sodium caseinate", "calcium caseinate",
+    "whey", "whey powder", "whey protein", "whey protein concentrate",
+    "lactose", "lactalbumin", "lactoglobulin",
+    "milk solids", "milk powder", "skimmed milk powder", "full cream milk powder",
+    "ghee", "butter", "butter oil", "cream", "condensed milk",
+    "curds", "paneer", "lactulose", "lacto"
+  ],
+
+  "gluten": [
+    "wheat", "wheat flour", "maida", "refined wheat flour", "whole wheat flour",
+    "atta", "semolina", "sooji", "rawa", "durum",
+    "barley", "barley malt", "malt extract", "malt vinegar",
+    "rye", "triticale", "spelt", "kamut",
+    "starch", "modified starch", "hydrolysed wheat protein",
+    "seitan", "fu"
+  ],
+
+  "egg": [
+    "albumin", "albumen", "egg white", "egg yolk", "egg powder",
+    "egg solids", "dried egg", "whole egg", "globulin",
+    "livetin", "lysozyme", "mayonnaise", "meringue",
+    "ovalbumin", "ovomucin", "ovomucoid", "ovotransferrin",
+    "silici albuminate", "simplesse"
+  ],
+
+  "soy": [
+    "soya", "soybean", "soya bean", "soy protein", "soy protein isolate",
+    "textured vegetable protein", "tvp", "hydrolysed soy protein",
+    "soy sauce", "tamari", "shoyu", "miso", "tempeh",
+    "edamame", "kinako", "natto", "okara",
+    "tofu", "bean curd", "soy flour", "soy lecithin", "lecithin"
+  ],
+
+  "tree_nuts": [
+    "almond", "almond flour", "almond oil", "almonds",
+    "cashew", "cashew nut", "cashew butter",
+    "walnut", "walnut oil",
+    "pecan", "pecan nut",
+    "pistachio", "pistachios",
+    "macadamia", "macadamia nut", "queensland nut",
+    "hazelnut", "hazel nut", "filbert",
+    "chestnut", "brazil nut", "pine nut",
+    "coconut", "coconut oil", "coconut milk", "desiccated coconut",
+    "mixed nuts", "nut paste", "praline", "marzipan"
+  ],
+
+  "shellfish": [
+    "shrimp", "prawn", "prawns", "crab", "lobster", "crayfish",
+    "crawfish", "krill", "barnacle", "shrimp paste",
+    "crab paste", "seafood", "shellfish extract",
+    "surimi", "imitation crab"
+  ],
+
+  "fish": [
+    "anchovy", "anchovies", "bass", "catfish", "cod", "flounder",
+    "grouper", "haddock", "hake", "halibut", "herring",
+    "mackerel", "mahimahi", "mahi mahi", "perch", "pollock",
+    "salmon", "sardine", "snapper", "sole", "swordfish",
+    "tilapia", "trout", "tuna", "fish sauce", "fish extract",
+    "fish stock", "worcestershire sauce", "caesar dressing",
+    "caviar", "roe", "dha", "omega-3"
+  ],
+
+  "sesame": [
+    "sesame", "sesame seeds", "sesame oil", "gingelly oil",
+    "til", "tahini", "sesame flour", "sesame paste",
+    "hemp seed", "benne"
+  ],
+
+  "mustard": [
+    "mustard", "mustard seeds", "mustard oil", "mustard powder",
+    "mustard flour", "mustard leaves", "yellow mustard",
+    "brown mustard", "dijon mustard"
+  ],
+
+  "sulphites": [
+    "sulphur dioxide", "sulfur dioxide", "sodium sulphite",
+    "sodium bisulphite", "sodium metabisulphite",
+    "potassium bisulphite", "potassium metabisulphite",
+    "e220", "e221", "e222", "e223", "e224", "e226", "e227", "e228",
+    "dried fruit", "wine", "vinegar"
+  ],
+
+  "sugar": [
+    "maltodextrin", "dextrose", "glucose", "glucose syrup",
+    "corn syrup", "high fructose corn syrup", "hfcs",
+    "fructose", "sucrose", "lactose", "invert sugar",
+    "invert syrup", "jaggery", "gur", "cane juice", "fruit juice concentrate",
+    "honey", "agave", "agave nectar", "maple syrup",
+    "treacle", "molasses", "brown sugar", "raw sugar",
+    "caster sugar", "icing sugar", "demerara",
+    "sorbitol", "xylitol", "mannitol", "erythritol",
+    "saccharin", "sucralose", "aspartame", "acesulfame",
+    "stevia", "maltose", "barley malt syrup"
+  ],
+
+  "diabetes_risk": [
+    "maltodextrin", "dextrose", "glucose syrup", "corn syrup",
+    "high fructose corn syrup", "refined flour", "maida",
+    "white rice", "white bread", "potato starch",
+    "modified starch", "tapioca starch", "rice flour",
+    "jaggery", "honey", "agave", "fruit juice concentrate"
+  ],
+
+  "msg": [
+    "monosodium glutamate", "msg", "e621", "glutamate",
+    "hydrolysed vegetable protein", "autolysed yeast extract",
+    "yeast extract", "natural flavour", "umami seasoning"
+  ]
+}

@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/users/
+data/history.json
+data/profile.json
+tmp/
+web/node_modules/
+web/*.tsbuildinfo
+web/.next/
+web/.next-local/
+web/.env.local
+web/.env.*.local
+*service-account*.json

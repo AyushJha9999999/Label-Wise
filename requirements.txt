@@ -1,0 +1,22 @@
+# ── Model APIs and local speech transcription ───────────────────────────────────
+google-genai>=1.30.0          # Gemini API client
+torch>=2.3.0                  # PyTorch backend
+
+# ── Audio processing ────────────────────────────────────────────────────────────
+openai-whisper>=20231117      # Voice-note → text transcription
+librosa>=0.10.0               # Load & resample audio to 16 kHz mono
+soundfile>=0.12.0             # Read/write WAV files
+
+# ── Vision ──────────────────────────────────────────────────────────────────────
+pillow>=10.0.0                # Image loading & preprocessing
+opencv-contrib-python>=4.10.0 # Local barcode detection from label photos
+rapidocr>=3.4.0,<3.10.0    # Independent local text evidence (PP-OCR via ONNX)
+onnxruntime>=1.18.0        # CPU inference for RapidOCR
+
+# ── API server and Firebase authentication ──────────────────────────────────────
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+firebase-admin>=6.5.0
+python-dotenv>=1.0.1
+
