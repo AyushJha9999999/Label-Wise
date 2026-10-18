@@ -12,6 +12,7 @@ web/node_modules/
 web/*.tsbuildinfo
 web/.next/
 web/.next-local/
+**/.netlify/
 web/.env.local
 web/.env.*.local
 *service-account*.json
